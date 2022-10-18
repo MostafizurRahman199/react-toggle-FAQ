@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-toggle-FAQ.git/static/css/main.aa6cb43a.css",
-    "main.js": "/react-toggle-FAQ.git/static/js/main.9fb2ccfc.js",
-    "static/js/787.f055211e.chunk.js": "/react-toggle-FAQ.git/static/js/787.f055211e.chunk.js",
-    "static/media/logo.svg": "/react-toggle-FAQ.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-toggle-FAQ.git/index.html",
-    "main.aa6cb43a.css.map": "/react-toggle-FAQ.git/static/css/main.aa6cb43a.css.map",
-    "main.9fb2ccfc.js.map": "/react-toggle-FAQ.git/static/js/main.9fb2ccfc.js.map",
-    "787.f055211e.chunk.js.map": "/react-toggle-FAQ.git/static/js/787.f055211e.chunk.js.map"
+    "main.css": "/react-toggle-FAQ/static/css/main.aa6cb43a.css",
+    "main.js": "/react-toggle-FAQ/static/js/main.c057f4e3.js",
+    "static/js/787.f055211e.chunk.js": "/react-toggle-FAQ/static/js/787.f055211e.chunk.js",
+    "static/media/logo.svg": "/react-toggle-FAQ/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-toggle-FAQ/index.html",
+    "main.aa6cb43a.css.map": "/react-toggle-FAQ/static/css/main.aa6cb43a.css.map",
+    "main.c057f4e3.js.map": "/react-toggle-FAQ/static/js/main.c057f4e3.js.map",
+    "787.f055211e.chunk.js.map": "/react-toggle-FAQ/static/js/787.f055211e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa6cb43a.css",
-    "static/js/main.9fb2ccfc.js"
+    "static/js/main.c057f4e3.js"
   ]
 }
